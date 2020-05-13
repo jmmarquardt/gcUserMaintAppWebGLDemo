@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "gcUser",
+"productVersion": "0.1",
+"dataUrl": "gcUserMaintAppWebGLDemo.data.unityweb",
+"wasmCodeUrl": "gcUserMaintAppWebGLDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "gcUserMaintAppWebGLDemo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
