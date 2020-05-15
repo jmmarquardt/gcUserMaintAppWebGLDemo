@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "gcUser",
-"productVersion": "0.1",
+"companyName": "PerkinElmer, Inc",
+"productName": "GC User Maintenance",
+"productVersion": "1.0",
 "dataUrl": "gcUserMaintAppWebGLDemo.data.unityweb",
 "wasmCodeUrl": "gcUserMaintAppWebGLDemo.wasm.code.unityweb",
 "wasmFrameworkUrl": "gcUserMaintAppWebGLDemo.wasm.framework.unityweb",
